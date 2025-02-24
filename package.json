@@ -1,0 +1,13 @@
+{
+  "name": "naircrypto",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "@react-navigation/native": "^6.0.0",
+    "@react-navigation/stack": "^6.0.0",
+    "expo-local-authentication": "~13.0.0",
+    "expo-crypto": "~12.0.0",
+    "@solana/web3.js": "^1.0.0",
+    "axios": "^1.0.0"
+  }
+}

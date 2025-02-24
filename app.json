@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "NairCrypto",
+    "slug": "naircrypto",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.naircrypto.app",
+      "versionCode": 1,
+      "permissions": ["USE_BIOMETRIC", "USE_FINGERPRINT"]
+    }
+  }
+}

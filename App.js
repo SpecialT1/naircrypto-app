@@ -178,4 +178,4 @@ const styles = StyleSheet.create({
   title: { color: '#FFF', fontSize: 20, fontWeight: 'bold', marginBottom: 10 },
   input: { borderWidth: 1, borderColor: '#00C896', padding: 8, marginVertical: 5, color: '#FFF', borderRadius: 4 },
   text: { color: '#FFF', fontSize: 14, marginVertical: 3 },
-});
+}).

@@ -1,0 +1,4 @@
+cd Desktop
+chmod +x build-apk.sh  # Mac/Linux only
+./build-apk.sh        # Mac/Linux
+build-apk.sh          # Windows
